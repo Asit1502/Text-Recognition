@@ -1,0 +1,2 @@
+The data split part has been done by the dataset creator and that’s why there are Train, Test and Validation folders. The CSV folder has 3 .csv files for all 3 partitions. Each csv file has 2 columns, one for labels and one for the image path. The dataset can be downloaded
+https://www.kaggle.com/datasets/ssarkar445/handwriting-recognitionocr
